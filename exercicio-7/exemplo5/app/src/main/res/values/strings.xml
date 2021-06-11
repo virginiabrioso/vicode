@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="header_title">Preencha os campos abaixo:</string>
+    <string name="nome">Nome</string>
+    <string name="phone">Celular</string>
+    <string name="categoria_1">Pessoal</string>
+    <string name="categoria_2">Profissional</string>
+    <string name="refer">Referencia</string>
+    <string name="save">Salvar</string>
+    <string name="search">Pesquisar</string>
+</resources>
